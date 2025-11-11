@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+requests
+python-multipart
+python-dotenv
+openai
+# Optional for ASR
+# whisper
+# whisperx
+# torchaudio
